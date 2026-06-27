@@ -1,0 +1,20 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets and OS files
+.env
+*.log
+Thumbs.db
+.DS_Store
+
+# Jupyter runtime files
+.ipynb_checkpoints/
+
+
+data/retail_data.csv
+data/cleaned_retail_data.csv
+data/transaction_data.csv
+data/cleaned_transaction_data.csv

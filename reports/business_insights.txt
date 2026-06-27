@@ -1,0 +1,16 @@
+Retail Sales Business Insights
+
+Total Revenue: 22,110,868.80
+Total Transactions: 18,259
+Total Products: 3,096
+Total Countries: 38
+Average Order Value: 1,210.96
+
+Key Insights:
+- Highest revenue country is United Kingdom with 19,332,453.30 in sales.
+- Highest selling product by revenue is WHITE HANGING HEART T-LIGHT HOLDER (1787583).
+- Best sales month is 2019-01.
+- Peak shopping hour is 08:00.
+- Average transaction value is 1,210.96.
+- Strongest seasonal quarter is Q4 2018.
+- Track country and product concentration to manage inventory and campaigns.
